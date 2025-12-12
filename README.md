@@ -7,5 +7,3 @@
 VojtechKarger/VojtechKarger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-https://campuscvut-my.sharepoint.com/:p:/g/personal/kargevoj_cvut_cz/IQCM7AfYiUcWQoqX--SmuJcvAbgRQwdDayQoXGdprZKKeR8?e=iT4uSl
